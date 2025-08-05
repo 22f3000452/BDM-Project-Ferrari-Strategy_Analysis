@@ -1,0 +1,16 @@
+Column,Data Type,Non-Null Count,Unique Values
+Driver,object,126,2
+LapNumber,float64,126,63
+LapTime,object,126,122
+Stint,float64,126,3
+Compound,object,126,2
+TyreLife,float64,126,34
+PitOutTime,object,4,4
+PitInTime,object,4,4
+Sector1Time,object,124,121
+Sector2Time,object,126,123
+Sector3Time,object,126,123
+SpeedI1,float64,114,30
+SpeedI2,float64,126,30
+SpeedFL,float64,122,27
+SpeedST,float64,126,32
